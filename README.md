@@ -54,8 +54,16 @@
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=CauaTps&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub statistics" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CauaTps&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages" />
+<img height="170" src="https://github-stats-extended.vercel.app/api?username=CauaTps&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub statistics" />
+<img height="170" src="https://github-stats-extended.vercel.app/api/top-langs/?username=CauaTps&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages" />
+
+</div>
+
+## 📈 Contribution activity
+
+<div align="center">
+
+[![Cauã's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=CauaTps&theme=tokyo-night&hide_border=true)](https://github.com/CauaTps)
 
 </div>
 
