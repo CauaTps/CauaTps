@@ -2,11 +2,9 @@
 
 # Hi, I'm Cauã Puríssimo! 👋
 
-### Computer Science student and aspiring software developer
+### Computer Science Student
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=520&lines=Turning+ideas+into+code;Exploring+new+technologies;Always+learning+and+improving" alt="Typing introduction" />
-
-[![GitHub](https://img.shields.io/badge/GitHub-CauaTps-181717?style=for-the-badge&logo=github)](https://github.com/CauaTps)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=520&lines=Exploring+new+technologies" alt="Exploring new technologies" />
 
 </div>
 
@@ -60,26 +58,7 @@
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CauaTps&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages" />
 
 </div>
-## 🟡 Contribution game
 
-<div align="center">
-
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/CauaTps/CauaTps/output/pacman-contribution-graph-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/CauaTps/CauaTps/output/pacman-contribution-graph.svg"
-  />
-  <img
-    alt="Pac-Man contribution graph"
-    src="https://raw.githubusercontent.com/CauaTps/CauaTps/output/pacman-contribution-graph.svg"
-  />
-</picture>
-
-</div>
 ## 🚀 Featured projects
 
 > My projects will be added soon. I am organizing my repositories to share my progress and work.
@@ -95,14 +74,6 @@ A short description of the project's purpose and main features.
 [View repository](REPOSITORY_LINK)
 -->
 
-## 📫 Let's connect
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-CauaTps-181717?style=for-the-badge&logo=github)](https://github.com/CauaTps)
-
-</div>
-
 ---
 
 <div align="center">
@@ -110,5 +81,15 @@ A short description of the project's purpose and main features.
 ⭐ Thanks for visiting!
 
 ![Profile views](https://komarev.com/ghpvc/?username=CauaTps&color=6C63FF&style=flat-square&label=Profile+views)
+
+</div>
+
+## 📫 Let's connect
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CauaTps)
+[![WhatsApp](https://img.shields.io/badge/-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5518998129567)
+[![Email](https://img.shields.io/badge/-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:purissimocaua1@gmail.com)
 
 </div>
