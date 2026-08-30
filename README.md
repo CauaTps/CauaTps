@@ -59,14 +59,6 @@
 
 </div>
 
-## 📈 Contribution activity
-
-<div align="center">
-
-[![Cauã's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=CauaTps&theme=tokyo-night&hide_border=true)](https://github.com/CauaTps)
-
-</div>
-
 ## 🚀 Featured projects
 
 > My projects will be added soon. I am organizing my repositories to share my progress and work.
